@@ -4,12 +4,12 @@
 
 ## Contents of Repository
 
-1. *Final Capstone Project PROPOSAL* - Markdown proposal of project
-2. *Capstone Scratch Notes* - Rough Draft of Capstone Project
-3. *Final Capstone Project* - Final Draft of Capstone Project *Jupyter Notebook*
-4. *The CIFAR-110 - Final Capstone Presentation* - PDF Slideshow of Project and its findings
+1. ***Final Capstone Project PROPOSAL*** - Markdown proposal of project
+2. ***Capstone Scratch Notes*** - Rough Draft of Capstone Project
+3. ***Final Capstone Project*** - Final Draft of Capstone Project raw code
+4. ***The CIFAR-110 - Final Capstone Presentation*** - PDF Slideshow of Project and its findings
 
 **Note:** All other items within this repository (i.e.: .ipynb_checkpoints, .gitattributes, .gitignore) are miscellaneous backend material and do not serve a purpose.
 
-Enjoy,
+Enjoy, <br>
 John A. Fonte, Esq.
